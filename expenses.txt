@@ -1,0 +1,2 @@
+28-05-2024,electricity,520.42,qwerty
+24-04-2024,food,200.0,qwerty
